@@ -1,4 +1,4 @@
-Google Pacman
+Google Pacman is the most coolest game i've ever played
 -------------
 
 This is a copy of Google's playable Pacman game logo hosted for
